@@ -1,11 +1,12 @@
 # Coherent Systems
 
 _A new wave of automatization brings unlimited possibilities to improve our lives
+
 Literally, all electronic devices could be interconnected and work in sync_
 
-## I can make things work
+## I can make things work!
 
-To begin with, when I studied at school I acquired practical experience working with microcontrollers. Despite having electronic devices for years, I was genuinely excited/fervent/impassioned/ardent/passionate/enthusiastic about making small e-stuff work. I purchased a handful of microcontrollers, lights, and one programmating module - a device to upload an application from a laptop on a controller. Then I began to write my applications in developer tool and run them on a controller. My apps were relatively simple, consisting of a few lines, they could make lights blink how I wanted which looked adorable. By that time I switched my focus towards creating a new developer panel. Since I didn’t have enough proficiency in constructing actual e-schemes, it consumed too much time, so shortly after I had to renounce my project. However I still have a strong interest and attentiveness in amazing stuff we can implement, to name just a few: gradual change of visible intensiveness of light by manipulating with on and off periods, connecting wireless modules like WiFi or Bluetooth and operating with a scheme from a device like phone, reading measures from apparatuses and using retrieved data to control. I have enough knowledge and experience to implement things which will make life easier and enjoyable.
+To begin with, when I studied at school I acquired practical experience working with microcontrollers. Despite having electronic devices for years, I was genuinely excited/fervent/impassioned/ardent/passionate/enthusiastic about making small e-stuff work. I purchased a handful of microcontrollers, lights, and one programming  module - a device to upload an application from a laptop on a controller. Then I began to write my applications in developer tool and run them on a controller. My apps were relatively simple, consisting of a few lines, they could make lights blink how I wanted which looked adorable. By that time I switched my focus towards creating a new developer panel. Since I didn’t have enough proficiency in constructing actual e-schemes, it consumed too much time, so shortly after I had to renounce my project. However I still have a strong interest and attentiveness in amazing stuff we can implement, to name just a few: gradual change of visible intensiveness of light by manipulating with on and off periods, connecting wireless modules like WiFi or Bluetooth and operating with a scheme from a device like phone, reading measures from apparatuses and using retrieved data to control. I have enough knowledge and experience to implement things which will make life easier and enjoyable.
 
 ## Internet of Things—ever growing industry
 
